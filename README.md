@@ -14,4 +14,7 @@ Use "npm start" to start the server, and use Insomnia, Postman or a similar appl
 
 ## Demonstration Video
 
+
 ## Screenshot
+![image](https://user-images.githubusercontent.com/16532491/215293815-6b784093-6d1f-4236-8c96-a8124cf7ddab.png)
+
