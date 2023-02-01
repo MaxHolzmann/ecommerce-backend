@@ -13,7 +13,7 @@ Use MySQL to "SOURCE schema.sql;" in the db folder.
 Use "npm start" to start the server, and use Insomnia, Postman or a similar application to make GET, PUT, PUSH and DELETE requests with JSON.
 
 ## Demonstration Video
-
+[View Demo Video](https://youtu.be/NNtNqAx8inc)
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/16532491/215293815-6b784093-6d1f-4236-8c96-a8124cf7ddab.png)
